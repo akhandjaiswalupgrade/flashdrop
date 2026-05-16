@@ -1,0 +1,10 @@
+node_modules
+.next
+out
+.env
+.env.local
+.env.*.local
+.flashdrop-data
+.flashdrop-data-next
+*.log
+!.env.example
